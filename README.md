@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/3oriO0o3mjqifL7wK4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/producthunt-cat-computer-3oriO0o3mjqifL7wK4">via GIPHY</a></p>" 
+  <img src="https://giphy.com/gifs/producthunt-cat-computer-3oriO0o3mjqifL7wK4" width="200" height="250"/>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Danilov
 =====================================================================================================================================
