@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/11JTxkrmq4bGE0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-computer-working-11JTxkrmq4bGE0">via GIPHY</a></p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Denis Danilov
 =====================================================================================================================================
 
@@ -8,7 +10,7 @@ I've been cutting hair for 4 years now and decided to try myself in a new profes
 
 * 🌍  I'm based in Russia, Samara
 * ✉️  You can contact me at mailto:You can contact me at denchik199819981998@gmail.com
-* Write в telegram: @dendanilov1
+       Write в telegram: @dendanilov1
 * 🧠  I'm learning framework Spring Boot
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I make cool men's hairstyles
