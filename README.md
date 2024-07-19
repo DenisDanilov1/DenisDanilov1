@@ -11,7 +11,7 @@ I've been cutting hair for 4 years now and decided to try myself in a new profes
 
 * 🌍  I'm based in Russia, Samara
 * ✉️  You can contact me at mailto:You can contact me at denchik199819981998@gmail.com
-       Write in telegram: @dendanilov1
+* ✉️  Write in telegram: @dendanilov1
 * 🧠  I'm learning framework Spring Boot
 * 🤝  I open to collaborating on interesting projects
 * ⚡  I make cool men's hairstyles
